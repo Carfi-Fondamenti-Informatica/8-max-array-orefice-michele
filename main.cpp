@@ -11,6 +11,6 @@ int main(){
     }
   numeroMassimo(numeri,dim);
   
-  cout<<numeroMassimo(numero,dim)<<endl;
+      cout<<numeroMassimo(numero,dim)<<endl;
   return 0;
 }
